@@ -32,7 +32,7 @@
 #include <pedsim_msgs/msg/tracked_person.hpp>
 #include <pedsim_msgs/msg/agent_states.hpp>
 
-#include <tf2_geometry_msgs/tf2_geometry_msgs.h>
+#include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
 
 #include <memory>
 #include <string>
